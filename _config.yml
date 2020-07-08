@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Mountain of Huginn
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: ""
 email: unistar20010320@gmail.com
 name: Youngsong Kim
 description: >
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://huginn-alpha.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/header2_image.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
